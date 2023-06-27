@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Chuck Norris API</string>
+    <string name="generateRandomJokeText">Generate Random Joke</string>
+    <string name="goToCategoriesText">Go to Categories</string>
+</resources>
